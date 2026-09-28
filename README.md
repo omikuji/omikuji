@@ -2,9 +2,7 @@
 
 東京の Web エンジニアです。個人で OSS を公開しながら、18 の Web サービスを運営しています。
 
-<sub>Tokyo-based web engineer. I publish small OSS tools and run 18 web services solo.</sub>
-
-### OSS
+### オープンソース
 
 - **[waridake](https://github.com/omikuji/waridake)** — Shift+ドラッグで窓をゾーンに吸着させるだけの macOS ウィンドウスナップ。ディスプレイごとのレイアウト、ビジュアルエディタ。26 言語
 - **[hakarasenai](https://github.com/omikuji/hakarasenai)** — Google Analytics に測らせないだけの Firefox 拡張(デスクトップ / Android)。[AMO で公開中](https://addons.mozilla.org/firefox/addon/hakarasenai/)。26 言語
@@ -31,3 +29,4 @@
 
 - [omikuji.dev](https://omikuji.dev) — ブログ
 - [はてなブログ](https://omikuji-dev.hatenablog.com) — 作ったツールの紹介と、その裏側の技術
+- [omikuji.dev Blog](https://omikuji-dev.blogspot.com) — 英語のブログ
