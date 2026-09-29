@@ -1,6 +1,6 @@
 ## omikuji
 
-東京の Web エンジニアです。個人で OSS を公開しながら、18 の Web サービスを運営しています。 詳しくは [omikuji.dev/about](https://omikuji.dev/about/) に。
+東京の Web エンジニアです。個人で OSS を公開しながら、18 の Web サービスを運営しています。詳しくは [omikuji.dev/about](https://omikuji.dev/about/) に。
 
 ### オープンソース
 
