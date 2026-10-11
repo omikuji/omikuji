@@ -1,6 +1,6 @@
 ## omikuji
 
-東京の Web エンジニアです。個人で OSS を公開しながら、18 の Web サービスを運営しています。詳しくは [omikuji.dev/about](https://omikuji.dev/about/) に。
+東京のソフトウェアエンジニアです。個人で OSS を公開しながら、16 の Web サービスを運営しています。詳しくは [omikuji.dev/about](https://omikuji.dev/about/) に。
 
 ### オープンソース
 
@@ -9,7 +9,7 @@
 
 ### 運営しているサービス
 
-- [games.omikuji.dev](https://games.omikuji.dev) — 登録不要のブラウザゲーム 73 本
+- [games.omikuji.dev](https://games.omikuji.dev) — 登録不要のブラウザゲーム 108 本
 - [calories.omikuji.dev](https://calories.omikuji.dev) — 外食チェーン 50 社の栄養成分データベース
 - [diary.omikuji.dev](https://diary.omikuji.dev) — 書くだけで AI がタイトルを付ける日記
 - [maps.omikuji.dev](https://maps.omikuji.dev) — 誰でも匿名で「◯◯マップ」を作れる地図
@@ -21,6 +21,7 @@
 - [calendar.omikuji.dev](https://calendar.omikuji.dev) — 世界のカウントダウンカレンダー
 - [holiday.omikuji.dev](https://holiday.omikuji.dev) — 日本の祝日
 - [manners.omikuji.dev](https://manners.omikuji.dev) — 世界の初見殺しマナー
+- [whoami.omikuji.dev](https://whoami.omikuji.dev) — 日常の場面で答える診断
 - [recipes.omikuji.dev](https://recipes.omikuji.dev) — レシピ
 - [shiritori.omikuji.dev](https://shiritori.omikuji.dev) — しりとり
 - [number.omikuji.dev](https://number.omikuji.dev) — ナンバープレートの語呂合わせ
